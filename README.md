@@ -16,7 +16,7 @@ To support the development of advanced methodologies in emerging sciences, data 
 | 1111-NCU  | 56           | V                       | V                     |      | V        | V       | V     |
 | 1111-NCCU | 59           |                         |                       |      | V        | V       | V     |
 | 1112-NCU  | 49           | V                       | V                     | V    | V        | V       | V     |
-| Record    | 516          | 347                     | 335                   | 296  | 473      | 504     | 467   | 
+| Record    | 516          | 347                     | 335                   | 261  | 473      | 504     | 467   | 
 
 
 ## Folder Structure
