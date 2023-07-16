@@ -16,19 +16,12 @@ To support the development of advanced methodologies in emerging sciences, data 
 | 1111-NCU  | 56           | V                       | V                     |      | V        | V       | V     |
 | 1111-NCCU | 59           |                         |                       |      | V        | V       | V     |
 | 1112-NCU  | 49           | V                       | V                     | V    | V        | V       | V     |
-| Record    | 516          | 347                     | 335                   | 261  | 473      | 504     | 467   | 
+| Record    | 516          | 347                     | 344                   | 261  | 473      | 504     | 467   | 
 
+
+### Complete LOG and questionnaire data: 200 records
 
 ## Folder Structure
-    .
-    ├── ...
-    ├── data                    
-    │   ├── br.csv              # Students' BookRoll activities (learning behavior)
-    │   ├── score.csv           # Students' final score
-    │   ├── sill.csv            # Students' Strategy Inventory for Language Learning (SILL) measurement results
-    │   ├── srl_motivation.csv  # Students' Self-regulated Learning (SRL) measurement results Learning Motivation
-    |   ├── srl_strategy.csv    # Students' Self-regulated Learning (SRL) measurement results Learning Strategy
-    │   ├── viscode.csv         # Students' VisCode activities (learning behavior)    
 
 # Data Formats
 
@@ -39,7 +32,8 @@ To support the development of advanced methodologies in emerging sciences, data 
 | score	   | Students' final score, less than 60 indicated failed on this course.                      |
 | class	   | Students' class identity.                                                                 |
 
-![score](https://user-images.githubusercontent.com/73873565/253457773-0eb728d8-38e2-4165-b0fe-629549394005.png)
+![score](https://user-images.githubusercontent.com/61023223/230403773-f9ee5181-4303-4f55-b2a2-3f5e6716ed72.png)
+
 ## Students' BookRoll activities (learning behavior)
 | Feature               | Description                                                                  |
 | -------- | ------------------------------------------------------------------------------------------|
@@ -70,7 +64,7 @@ To support the development of advanced methodologies in emerging sciences, data 
 | UNDO_HW_MEMO	        | Undo the last action of handwriting.                                         | 
 
 
-![BookRoll_Features_Distribution](https://user-images.githubusercontent.com/73873565/253458473-8dce40f9-9698-4ebf-ae59-1380991b977a.png)
+![BookRoll_Features_Distribution](https://user-images.githubusercontent.com/61023223/230416889-7adeb8f2-db00-417c-ba3b-a6be1bd51e40.png)
 
 ## Students' VisCode activities (learning behavior)
 | Feature               | Description                                                                                                     |        
@@ -127,7 +121,7 @@ To support the development of advanced methodologies in emerging sciences, data 
 | ZeroDivisionError	    | Raised when the second argument of a division or modulo operation is zero.                                      |
 
 
-![VisCode_Features_Distribution](https://user-images.githubusercontent.com/73873565/253458578-63200806-0564-48f1-9e16-c3c65be241e2.png)
+![VisCode_Features_Distribution](https://user-images.githubusercontent.com/61023223/230416931-0472743c-c37c-4180-ba19-588ecbbdbe6a.png)
 
 ## Students' Strategy Inventory for Language Learning (SILL) measurement results
 | Feature               | Description                                                                                                     |        
@@ -183,7 +177,7 @@ To support the development of advanced methodologies in emerging sciences, data 
 | s_48	(Social)        | I try to kearn about the style of coding.                                                                       |
 
 
-![sill](https://user-images.githubusercontent.com/73873565/253458665-6510a1ab-443d-47ad-a62d-1a2ce96dbba8.png)
+![sill](https://user-images.githubusercontent.com/61023223/230417483-468e2609-4545-4141-8021-e8292aafd5c6.png)
 
 # Students' Self-regulated Learning (SRL) measurement results
 ## SRL Strategy
@@ -242,7 +236,7 @@ To support the development of advanced methodologies in emerging sciences, data 
 | srl_s_50 | (Help Seeking) I try to identify students in this class whom I can ask for help if necessary. |
 
 
-![srl_strategy](https://user-images.githubusercontent.com/73873565/253458716-55aa8320-7f03-446c-bd53-8d28dc472f07.png)
+![srl_strategy](https://user-images.githubusercontent.com/61023223/230419150-923ae086-32ed-46b2-8a0c-8b9e5d087db7.png)
 
 
 
@@ -282,15 +276,15 @@ To support the development of advanced methodologies in emerging sciences, data 
 | srl_m_30 | (Test Anxiety) I have an uneasy, upset feeling when I take an exam. |
 | srl_m_31 | (Test Anxiety) I feel my heart beating fast when I take an exam. |
 
-![srl_motivation](https://user-images.githubusercontent.com/73873565/253458755-14336c55-86d5-41af-ae6c-823e1e7347b2.png)
+![srl_motivation](https://user-images.githubusercontent.com/61023223/230417540-7a7be7e5-e6b8-4e67-baae-07f92d2d089e.png)
 
 ## ALL Questionario
-![all_questionario](https://user-images.githubusercontent.com/73873565/253458831-7241fc56-2fe2-4454-8c59-42ad328caacf.png)
+![all_questionario](https://user-images.githubusercontent.com/61023223/230403852-7e09365b-d015-48d5-821a-845259369831.png)
 For other feature details, please refer to : https://github.com/advapplab/LBLS160
 
 
 ## Correlation
-![BookRoll_Correlation](https://user-images.githubusercontent.com/73873565/253458892-6b29200a-8e47-4787-8094-bb9416af27f2.png)
-![VisCode_Correlation](https://user-images.githubusercontent.com/73873565/253458920-34758198-3f36-446b-8d77-cdb92867745e.png)
-![Questionario_Correlation](https://user-images.githubusercontent.com/73873565/253458971-d861a1f3-0d89-488f-81e1-25873d27fcfd.png)
+![BookRoll_Correlation](https://user-images.githubusercontent.com/61023223/230403907-71348f74-d4b1-43c2-9eb9-29b8e1719514.png)
+![VisCode_Correlation](https://user-images.githubusercontent.com/61023223/230403925-70bb9b1f-f542-4853-802d-12faa5ffc9ec.png)
+![Questionario_Correlation](https://user-images.githubusercontent.com/61023223/230403879-fd1c5e6f-4b8b-45c8-8be8-9d0949c1f06e.png)
 
