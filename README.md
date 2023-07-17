@@ -19,8 +19,6 @@ To support the development of advanced methodologies in emerging sciences, data 
 | Record    | 516          | 347                     | 344                   | 261  | 473      | 504     | 467   | 
 
 
-### Complete LOG and questionnaire data: 200 records
-
 ## Folder Structure
 
 # Data Formats
